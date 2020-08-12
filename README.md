@@ -1,2 +1,2 @@
-# Same-day Delivery
+# Proposal: Same-day Delivery
 The development in logistics for home delivery of the online supermarkets now also permits same-day deliveries at acceptable costs. The Swiss example of the Migros- subsidiary LeShop with its customer base in Lausanne illustrates the additional effort compared with a Next-day delivery. The underlying company and process data are based on plausible public information. The delivery addresses are randomly selected from Google-Map.
